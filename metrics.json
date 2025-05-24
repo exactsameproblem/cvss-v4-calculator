@@ -330,7 +330,7 @@
                             "tooltip": "La métrique n’a pas été évaluée.",
                             "value": "X"
                         },
-                        "Informationel": {
+                        "Informationnel": {
                             "tooltip": "Le fournisseur a évalué l’impact de cette vulnérabilité comme n’ayant aucune urgence (Informationnel).",
                             "value": "Clear"
                         },
